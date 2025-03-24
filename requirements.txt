@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+textblob
+wordcloud
+fpdf2
+openai
